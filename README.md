@@ -3,7 +3,7 @@ Pong Game with AI & Data Collection
 
 This project is a Python-based **Pong game** with two modes:
 
-*   **Data Collection Mode** – Play manually and record game data for AI training.
+*   **Data Collection Mode** – Play manually and record game data for AI training
     
 *   **AI Mode** – Play against an AI-controlled paddle trained from collected data.
     
