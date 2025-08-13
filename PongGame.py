@@ -7,7 +7,7 @@ import atexit
 
 # Configuration
 DATA_COLLECTION_MODE = False  # Set to True for data collection, False for AI mode
-BALL_SPEED_FACTOR = 125
+BALL_SPEED_FACTOR = 120
 PADDLE_SPEED = 5  # Paddle movement speed per frame
 
 # Setup screen
